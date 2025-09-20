@@ -4,10 +4,10 @@ layout: home
 
 hero:
   name: "jiesuo"
-  tagline: 把jiesuo分享页内嵌到VitePress
+  tagline: 国外苹果ID分享
   actions:
     - theme: brand
-      text: Examples
-      link: /apple-examples
+      text: id
+      link: /id
 ---
 
