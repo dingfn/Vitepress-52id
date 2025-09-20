@@ -2,27 +2,27 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "测试文档",
-  description: "测试文档",
+  title: "jiesuo.cc使用文档",
+  description: "jiesuo.cc使用文档",
   cleanUrls: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/apple-examples' }
+      { text: 'Examples', link: '/id' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'ID分享',
         items: [
-          { text: 'Examples', link: '/apple-examples' }
+          { text: 'Examples', link: '/id' }
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/aipeach/Vitepress-AppleAutoPro' }
+      { text: '官网', link: 'https://jiesuo.cc' }
     ]
   },
   srcDir: './src'
