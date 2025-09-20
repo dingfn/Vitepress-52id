@@ -2,7 +2,7 @@
   <div :key="route.fullPath">
     <div v-if="dataLoaded">
       <p>Message: {{ msg }}</p>
-      <p>苹果账号: xxxx@icloud.com <button @click="copyToClipboard(username)">点击复制</button></p>
+      <p>苹果账号: {{username}} <button @click="copyToClipboard(username)">点击复制</button></p>
       <p>苹果密码: xxxxxxx <button @click="copyToClipboard(password)">点击复制</button></p>
       <p>账号状态: {{ message }}</p>
       <p>上次检查: {{ lastCheck }}</p>
