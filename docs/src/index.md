@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "测试文档"
-  tagline: 把AppleAutoPro分享页内嵌到VitePress
+  name: "jiesuo"
+  tagline: 把jiesuo分享页内嵌到VitePress
   actions:
     - theme: brand
       text: Examples
