@@ -1,0 +1,32 @@
+## ID分享1
+<GetAppleID />
+## ID分享2
+<GetAppleID />
+## ID分享3
+::: info Apple ID
+<GetAppleID />
+:::
+## ID分享4
+::: info Apple ID
+<GetAppleID />
+:::
+
+::: info Apple ID
+<GetAppleID />
+:::
+
+::: info Apple ID
+<GetAppleID />
+:::
+
+::: info Apple ID
+<GetAppleID />
+:::
+
+::: info Apple ID
+<GetAppleID />
+:::
+
+::: info Apple ID
+<GetAppleID />
+:::
