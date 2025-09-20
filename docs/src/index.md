@@ -3,11 +3,11 @@
 layout: home
 
 hero:
-  name: "jiesuo"
-  tagline: 国外苹果ID分享
+  name: "jiesuo.cc"
+  tagline: 苹果ID全自动解锁服务
   actions:
     - theme: brand
-      text: id
+      text: 海外苹果ID免费分享案例
       link: /id
 ---
 
